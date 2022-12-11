@@ -1,0 +1,5 @@
+name: 'Ice Cream'
+type: theme
+core_version_requirement: 9.x
+base theme: false
+description: 'a theme used for summer days'
